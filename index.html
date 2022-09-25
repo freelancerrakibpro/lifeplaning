@@ -11,6 +11,15 @@
     <title>homepage</title>
 
     <style>
+        .header-static{
+            position: sticky;
+            top: 0;
+            z-index: 97;
+        }
+        .chat-group{
+            font-size: arial;
+            
+        }
         .planning-header {
                         font-family: cursive;
                         margin-bottom: 30px;
@@ -53,7 +62,7 @@ span.times {
    
 </head>
 <body>
-    <header class="header-top">
+    <header class="header-top header-static">
         <div class="container">
             <div class="top-wrapper">
                 <div class="logo">
@@ -70,10 +79,10 @@ span.times {
 
                 </div>
                 <div class="web-name">
-                    <h3> life-planning Ads </h3>
+                    <h3>life-planning Ads</h3>
                 </div>
                 <div class="chat-link">
-                    <a href="#">Chat Group</a>
+                    <a href="#" class="chat-group">Chat Group</a>
                 </div>
             </div>
         </div>
