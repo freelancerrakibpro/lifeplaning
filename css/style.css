@@ -140,7 +140,13 @@ button#loginbtn {
     text-align: center;
     
 }
-
+.next-step {
+    text-align: center;
+    margin-top: -8px;
+}
+.hello {
+    text-align: center;
+}
 
 /*ending earning section */
 @media only screen and (max-width: 600px) {
