@@ -140,6 +140,9 @@ button#loginbtn {
     text-align: center;
     
 }
+.next-step-font{
+    font-family: sans-serif;
+}
 .next-step {
     text-align: center;
     margin-top: -8px;
