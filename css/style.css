@@ -92,7 +92,6 @@ button#loginbtn {
 }
 .main-footer{
     background-color: aliceblue;
-    margin-top: 100px;
     position: sticky;
     bottom: 0;
     display: none;
