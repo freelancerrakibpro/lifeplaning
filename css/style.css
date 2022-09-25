@@ -25,7 +25,7 @@ body{
 div#loginbox {
     width: 300px;
     margin: auto;
-    margin-top: 150px;
+    margin-top: 70px;
     padding: 45px 0px;
     text-align: center;
     background:
@@ -151,9 +151,14 @@ button#loginbtn {
 .hello {
     text-align: center;
 }
-
-
-
+/*start deposit header*/
+h2.text-center.deposit-header {
+    font-family: cursive;
+    margin-top: 20px;
+    font-weight: 600;
+    color: white;
+}
+/*start deposit header*/
 
 
 /*ending earning section */
