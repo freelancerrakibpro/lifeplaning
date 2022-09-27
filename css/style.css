@@ -69,13 +69,14 @@ button#loginbtn {
     width: 85%;
     padding: 7px 0px;
     background: #2196f3;
-	border:2px solid #2196f3;
+    border:2px solid #2196f3;
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     border-radius: 25px;
     outline: none;
     margin-bottom: 15px;
     font-family: cursive;
+    font-variant: petite-caps;
 }
 
 .loginbtnsbox #loginbtn:hover{
@@ -107,8 +108,10 @@ button#loginbtn {
 }
 .logins h2 {
     font-family: cursive;
-    font-size: 25px;
+    font-size: 30px;
+    font-weight: 700;
     color: aqua;
+    font-variant: petite-caps;
 }
 .images-upload:last-child{
     border:none;
