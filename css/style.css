@@ -75,8 +75,7 @@ button#loginbtn {
     border-radius: 25px;
     outline: none;
     margin-bottom: 15px;
-    font-family: cursive;
-    font-variant: petite-caps;
+    font-weight: 600;
 }
 
 .loginbtnsbox #loginbtn:hover{
